@@ -1,4 +1,4 @@
-tmdb sitesinin vermiş olduğu api yi kullanarak reactjs ile  yaptım . react router yapısını ve fontawesome eklentisini kullandım . inputa girilen film isimlerini data üzerinden çekip listelettirdim .
+tmdb sitesinin vermiş olduğu api yi kullanarak reactjs ile  yaptım . react router yapısını ve fontawesome eklentisini kullandım . inputa girilen film isimlerini data üzerinden çekip listelettirdim . 
 
 
 
