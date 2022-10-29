@@ -1,5 +1,5 @@
 tmdb sitesinin vermiş olduğu api yi kullanarak reactjs ile  yaptım . react router yapısını ve fontawesome eklentisini kullandım . inputa girilen film isimlerini data üzerinden çekip listelettirdim . 
-
+ 
 
 
 ![image](https://user-images.githubusercontent.com/110103127/197523274-1f6db973-e9c9-41b6-93c8-35806765e7bd.png)
